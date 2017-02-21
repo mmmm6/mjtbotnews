@@ -1,2 +1,1 @@
-# mjtbotnews
-robot tlegram
+permag.ir
